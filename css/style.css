@@ -121,9 +121,11 @@ a {
 /*End Main*/
 
 /* Footer */
-.footer {
-    margin-top: 5px;
-    height: 30px;
-    background-color: darkmagenta;
+footer {
+   text-align: center;
+}
+
+.heart{
+    color: red;
 }
 /* End Footer */
