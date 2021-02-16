@@ -73,6 +73,11 @@ a {
 /*End Header*/
 
 /*Main*/
+/*Title main*/
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
 /*Body main*/
 .clearfix::after {
     content: "";
